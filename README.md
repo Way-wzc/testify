@@ -3,7 +3,10 @@ Testify - Thou Shalt Write Tests
 
 ℹ️ We are working on testify v2 and would love to hear what you'd like to see in it, have your say here: https://cutt.ly/testify
 
-[![Build Status](https://travis-ci.org/Way-wzc/testify.svg)](https://travis-ci.org/Way-wzc/testify) [![Go Report Card](https://goreportcard.com/badge/github.com/Way-wzc/testify)](https://goreportcard.com/report/github.com/Way-wzc/testify) [![PkgGoDev](https://pkg.go.dev/badge/github.com/Way-wzc/testify)](https://pkg.go.dev/github.com/Way-wzc/testify)
+[![Build Status](https://travis-ci.org/Way-wzc/testify.svg)](https://travis-ci.org/Way-wzc/testify) 
+[![Go Report Card](https://goreportcard.com/badge/github.com/Way-wzc/testify)](https://goreportcard.com/report/github.com/Way-wzc/testify) 
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/Way-wzc/testify)](https://pkg.go.dev/github.com/Way-wzc/testify)
+<a href="https://codecov.io/gh/Way-wzc/testify"><img src="https://codecov.io/gh/Way-wzc/testify/branch/master/graph/badge.svg" alt="codecov"></a>
 
 Go code (golang) set of packages that provide many tools for testifying that your code will behave as you intend.
 
