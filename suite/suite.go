@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stretchr/testify/assert"
-	"github.com/stretchr/testify/require"
+	"github.com/Way-wzc/testify/assert"
+	"github.com/Way-wzc/testify/require"
 )
 
 var allTestsFilter = func(_, _ string) (bool, error) { return true, nil }
